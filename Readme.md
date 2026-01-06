@@ -584,40 +584,6 @@ p(t + ε) = p(t + ε/2) + (ε/2) ∇log P(θ(t + ε)|D)
 
 ---
 
-## 🤝 Contributing
-
-While this is a competition project, feedback and suggestions are welcome!
-
-**Contact:** shivanibhat@example.com
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🏆 Acknowledgments
-
-- **MIT Physics Department** for organizing this competition
-- **Anthropic** for Claude AI assistance in development
-- **Open Source Community** for excellent Python scientific computing tools
-
----
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/shivanibhat/solar-flare-bayesian-analysis/issues) page
-2. Review the documentation in `/docs`
-3. Contact: shivanibhat@example.com
-
----
-
-<div align="center">
-
 ### 🌟 Made with ❤️ by Shivani Bhat
 
 **Advancing Space Weather Science Through Bayesian Inference**
