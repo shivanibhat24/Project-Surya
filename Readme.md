@@ -1,8 +1,5 @@
 # 🌞 Project Surya: Bayesian Inference and Predictive Modeling of Solar Flare Dynamics
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Competition](https://img.shields.io/badge/Competition-MIT%20Physics-red)](https://mit.edu)
 
 **Author:** Shivani Bhat  
 **Competition:** Simulation Rush
