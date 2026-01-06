@@ -585,9 +585,3 @@ p(t + ε) = p(t + ε/2) + (ε/2) ∇log P(θ(t + ε)|D)
 ---
 
 ### 🌟 Made with ❤️ by Shivani Bhat
-
-**Advancing Space Weather Science Through Bayesian Inference**
-
-[GitHub](https://github.com/shivanibhat) • [Competition Link](https://mit.edu/physics)
-
-</div>
