@@ -309,51 +309,6 @@ output/
 └── report.txt                      # Comprehensive text report
 ```
 
----
-
-## 📂 Project Structure
-
-```
-solar-flare-bayesian-analysis/
-│
-├── data/
-│   ├── solar_flare_data.csv        # Input data
-│   └── README.md                    # Data documentation
-│
-├── src/
-│   ├── solar_flare_analyzer.py     # Core MCMC implementation
-│   ├── advanced_features.py        # Advanced analysis tools
-│   ├── visualization.py            # Plotting utilities
-│   └── utils.py                    # Helper functions
-│
-├── dashboard.py                     # Streamlit interactive dashboard
-│
-├── notebooks/
-│   ├── 01_exploratory_analysis.ipynb
-│   ├── 02_mcmc_implementation.ipynb
-│   ├── 03_advanced_features.ipynb
-│   └── 04_results_visualization.ipynb
-│
-├── tests/
-│   ├── test_analyzer.py
-│   ├── test_mcmc.py
-│   └── test_advanced.py
-│
-├── output/                          # Generated plots and reports
-│
-├── requirements.txt                 # Python dependencies
-├── README.md                        # This file
-├── LICENSE                          # MIT License
-├── .gitignore                       # Git ignore rules
-│
-└── report/
-    ├── project_report.pdf           # Final competition report
-    ├── supplementary_materials.pdf
-    └── figures/                     # All publication figures
-```
-
----
-
 ## 📊 Results
 
 ### Parameter Estimates
@@ -585,3 +540,5 @@ p(t + ε) = p(t + ε/2) + (ε/2) ∇log P(θ(t + ε)|D)
 ---
 
 ### 🌟 Made with ❤️ by Shivani Bhat
+---
+### A huge update folks! Project Surya came 3rd in the Simulation Rush competition hosted by IIT Hyderabad! 
